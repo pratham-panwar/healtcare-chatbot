@@ -1,0 +1,109 @@
+doctor_id,doctor_name,specialization,hospital,area,city,experience_years,rating
+D087,Dr. Kiran Mehta,Allergist,Chandigarh Care Hospital,Sector 44,Chandigarh,21,4.7
+D086,Dr. Aman Gupta,Allergist,Chandigarh Health Hospital,Sector 15,Chandigarh,14,4.2
+D005,Dr. Vikram Sethi,Cardiologist,Chandigarh Medisquare Hospital,Sector 15,Chandigarh,14,4.2
+D006,Dr. Ananya Sharma,Cardiologist,Chandigarh LifeCare Hospital,Sector 17,Chandigarh,6,4.1
+D008,Dr. Riya Arora,Dermatologist,Chandigarh Health Hospital,Sector 22,Chandigarh,8,4.4
+D011,Dr. Pooja Saini,Dermatologist,Chandigarh LifeCare Hospital,Sector 34,Chandigarh,21,4.3
+D009,Dr. Mehak Khanna,Dermatologist,Chandigarh LifeCare Hospital,Sector 44,Chandigarh,5,4.1
+D082,Dr. Preeti Khanna,ENT Specialist,Chandigarh Medisquare Hospital,Sector 22,Chandigarh,6,4.7
+D084,Dr. Jyoti Bansal,ENT Specialist,Chandigarh LifeCare Hospital,Sector 17,Chandigarh,14,4.5
+D035,Dr. Ashish Bansal,Endocrinologist,Chandigarh LifeCare Hospital,Sector 22,Chandigarh,16,4.2
+D018,Dr. Kavya Jain,Gastroenterologist,Chandigarh Care Hospital,Sector 22,Chandigarh,18,4.7
+D016,Dr. Priya Walia,Gastroenterologist,Chandigarh Health Hospital,Sector 15,Chandigarh,20,4.6
+D072,Dr. Harish Kapoor,General Physician,Chandigarh Health Hospital,Sector 17,Chandigarh,7,4.5
+D067,Dr. Rajiv Sharma,General Physician,Chandigarh Care Hospital,Sector 22,Chandigarh,8,4.3
+D104,Dr. Meena Sethi,General Surgeon,Chandigarh Health Hospital,Sector 15,Chandigarh,12,4.3
+D091,Dr. Amit Suri,Hepatologist,Chandigarh LifeCare Hospital,Sector 22,Chandigarh,6,4.0
+D077,Dr. Aman Sethi,Infectious Disease Specialist,Chandigarh Medisquare Hospital,Sector 15,Chandigarh,13,4.8
+D078,Dr. Rupinder Kaur,Infectious Disease Specialist,Chandigarh LifeCare Hospital,Sector 34,Chandigarh,13,4.5
+D041,Dr. Akash Gupta,Nephrologist,Chandigarh Medisquare Hospital,Sector 44,Chandigarh,10,4.5
+D037,Dr. Harpreet Kaur,Nephrologist,Chandigarh LifeCare Hospital,Sector 15,Chandigarh,16,4.3
+D042,Dr. Radhika Khanna,Nephrologist,Chandigarh Medisquare Hospital,Sector 22,Chandigarh,6,4.1
+D021,Dr. Rajat Sood,Neurologist,Chandigarh Health Hospital,Sector 15,Chandigarh,14,4.7
+D020,Dr. Shreya Bansal,Neurologist,Chandigarh LifeCare Hospital,Sector 44,Chandigarh,16,4.4
+D019,Dr. Amit Chawla,Neurologist,Chandigarh Care Hospital,Sector 17,Chandigarh,7,4.1
+D062,Dr. Radhika Bedi,Ophthalmologist,Chandigarh Health Hospital,Sector 17,Chandigarh,12,4.7
+D061,Dr. Puneet Sethi,Ophthalmologist,Chandigarh Health Hospital,Sector 15,Chandigarh,8,4.5
+D063,Dr. Varun Mehra,Ophthalmologist,Chandigarh LifeCare Hospital,Sector 34,Chandigarh,10,4.3
+D066,Dr. Neelam Kapoor,Ophthalmologist,Chandigarh LifeCare Hospital,Sector 44,Chandigarh,21,4.1
+D051,Dr. Sonia Kapoor,Orthopedist,Chandigarh LifeCare Hospital,Sector 44,Chandigarh,11,4.8
+D054,Dr. Preeti Sood,Orthopedist,Chandigarh Care Hospital,Sector 22,Chandigarh,7,4.6
+D050,Dr. Rakesh Saini,Orthopedist,Chandigarh LifeCare Hospital,Sector 15,Chandigarh,19,4.0
+D056,Dr. Nisha Sharma,Psychiatrist,Chandigarh Medisquare Hospital,Sector 44,Chandigarh,11,4.7
+D060,Dr. Maya Gupta,Psychiatrist,Chandigarh Health Hospital,Sector 22,Chandigarh,20,4.1
+D025,Dr. Sahil Kapoor,Pulmonologist,Chandigarh LifeCare Hospital,Sector 34,Chandigarh,20,4.6
+D028,Dr. Ritika Sethi,Pulmonologist,Chandigarh Medisquare Hospital,Sector 15,Chandigarh,12,4.2
+D029,Dr. Deepak Arora,Pulmonologist,Chandigarh Health Hospital,Sector 22,Chandigarh,10,4.1
+D101,Dr. Vivek Bedi,Rheumatologist,Chandigarh Health Hospital,Sector 34,Chandigarh,19,4.8
+D102,Dr. Monika Saini,Rheumatologist,Chandigarh Health Hospital,Sector 17,Chandigarh,9,4.7
+D097,Dr. Suresh Bansal,Rheumatologist,Chandigarh LifeCare Hospital,Sector 44,Chandigarh,9,4.3
+D098,Dr. Neha Sood,Rheumatologist,Chandigarh Care Hospital,Sector 22,Chandigarh,20,4.1
+D100,Dr. Isha Kapoor,Rheumatologist,Chandigarh Health Hospital,Sector 15,Chandigarh,11,4.1
+D044,Dr. Pallavi Sethi,Urologist,Chandigarh Health Hospital,Sector 17,Chandigarh,7,4.8
+D043,Dr. Gurpreet Bedi,Urologist,Chandigarh Medisquare Hospital,Sector 34,Chandigarh,6,4.5
+D047,Dr. Tarun Kapoor,Urologist,Chandigarh Care Hospital,Sector 15,Chandigarh,21,4.4
+D048,Dr. Simran Ahuja,Urologist,Chandigarh LifeCare Hospital,Sector 44,Chandigarh,18,4.1
+D003,Dr. Rohan Bedi,Cardiologist,Ludhiana Care Hospital,Civil Lines,Ludhiana,13,4.8
+D004,Dr. Simran Gill,Cardiologist,Ludhiana LifeCare Hospital,Model Town,Ludhiana,18,4.7
+D012,Dr. Rahul Verma,Dermatologist,Ludhiana Health Hospital,Civil Lines,Ludhiana,11,4.4
+D080,Dr. Simran Bhatia,ENT Specialist,Ludhiana Medisquare Hospital,Civil Lines,Ludhiana,18,4.4
+D081,Dr. Naveen Gupta,ENT Specialist,Ludhiana Medisquare Hospital,Model Town,Ludhiana,18,4.0
+D034,Dr. Nandini Suri,Endocrinologist,Ludhiana LifeCare Hospital,Civil Lines,Ludhiana,21,4.8
+D032,Dr. Aditi Gupta,Endocrinologist,Ludhiana Medisquare Hospital,Model Town,Ludhiana,15,4.3
+D017,Dr. Harshdeep Singh,Gastroenterologist,Ludhiana LifeCare Hospital,Model Town,Ludhiana,15,4.2
+D068,Dr. Pankaj Gupta,General Physician,Ludhiana Health Hospital,Civil Lines,Ludhiana,18,4.9
+D071,Dr. Manisha Verma,General Physician,Ludhiana LifeCare Hospital,Model Town,Ludhiana,7,4.6
+D103,Dr. Raj Bhatia,General Surgeon,Ludhiana LifeCare Hospital,Model Town,Ludhiana,13,4.8
+D108,Dr. Pallav Kapoor,General Surgeon,Ludhiana LifeCare Hospital,Civil Lines,Ludhiana,11,4.3
+D095,Dr. Manoj Kapoor,Hepatologist,Ludhiana Health Hospital,Model Town,Ludhiana,10,4.5
+D092,Dr. Pooja Mehra,Hepatologist,Ludhiana Medisquare Hospital,Civil Lines,Ludhiana,5,4.2
+D065,Dr. Aakash Khanna,Ophthalmologist,Ludhiana Care Hospital,Civil Lines,Ludhiana,11,4.8
+D064,Dr. Shalini Arora,Ophthalmologist,Ludhiana Medisquare Hospital,Model Town,Ludhiana,20,4.7
+D049,Dr. Manpreet Singh,Orthopedist,Ludhiana LifeCare Hospital,Model Town,Ludhiana,21,4.5
+D052,Dr. Abhishek Batra,Orthopedist,Ludhiana Health Hospital,Civil Lines,Ludhiana,14,4.5
+D026,Dr. Mansi Vohra,Pulmonologist,Ludhiana LifeCare Hospital,Civil Lines,Ludhiana,7,4.7
+D027,Dr. Gaurav Tandon,Pulmonologist,Ludhiana Medisquare Hospital,Model Town,Ludhiana,21,4.4
+D090,Dr. Nikhil Sood,Allergist,Mohali Medisquare Hospital,Phase 7,Mohali,8,4.3
+D089,Dr. Shikha Arora,Allergist,Mohali Care Hospital,Sector 70,Mohali,13,4.1
+D001,Dr. Arjun Mehta,Cardiologist,Mohali Health Hospital,Phase 3B2,Mohali,17,4.7
+D002,Dr. Neha Kapoor,Cardiologist,Mohali Health Hospital,Phase 7,Mohali,13,4.4
+D007,Dr. Karan Malhotra,Dermatologist,Mohali LifeCare Hospital,Sector 70,Mohali,20,4.7
+D010,Dr. Aman Bhatia,Dermatologist,Mohali Medisquare Hospital,Phase 7,Mohali,16,4.7
+D079,Dr. Ravi Arora,ENT Specialist,Mohali Care Hospital,Phase 3B2,Mohali,15,4.8
+D036,Dr. Komal Mehta,Endocrinologist,Mohali Health Hospital,Phase 3B2,Mohali,21,4.7
+D033,Dr. Rohit Anand,Endocrinologist,Mohali Health Hospital,Sector 70,Mohali,6,4.1
+D014,Dr. Isha Ahuja,Gastroenterologist,Mohali Health Hospital,Sector 70,Mohali,6,4.7
+D013,Dr. Nitin Gupta,Gastroenterologist,Mohali LifeCare Hospital,Phase 3B2,Mohali,7,4.6
+D070,Dr. Vikas Sood,General Physician,Mohali Health Hospital,Sector 70,Mohali,5,4.2
+D106,Dr. Kriti Arora,General Surgeon,Mohali Care Hospital,Phase 7,Mohali,7,4.4
+D105,Dr. Anurag Gupta,General Surgeon,Mohali Medisquare Hospital,Sector 70,Mohali,15,4.2
+D096,Dr. Renu Arora,Hepatologist,Mohali Medisquare Hospital,Phase 3B2,Mohali,19,4.8
+D094,Dr. Kavita Gupta,Hepatologist,Mohali Medisquare Hospital,Sector 70,Mohali,16,4.4
+D076,Dr. Sakshi Gill,Infectious Disease Specialist,Mohali LifeCare Hospital,Phase 7,Mohali,13,4.9
+D073,Dr. Karan Suri,Infectious Disease Specialist,Mohali Medisquare Hospital,Phase 3B2,Mohali,19,4.1
+D039,Dr. Monika Arora,Nephrologist,Mohali Medisquare Hospital,Sector 70,Mohali,12,4.7
+D040,Dr. Jaspreet Singh,Nephrologist,Mohali Health Hospital,Phase 3B2,Mohali,13,4.4
+D022,Dr. Tanya Batra,Neurologist,Mohali Medisquare Hospital,Phase 7,Mohali,15,4.5
+D024,Dr. Divya Mehra,Neurologist,Mohali Medisquare Hospital,Sector 70,Mohali,5,4.4
+D023,Dr. Mohit Anand,Neurologist,Mohali Care Hospital,Phase 3B2,Mohali,14,4.3
+D053,Dr. Yash Mehta,Orthopedist,Mohali Care Hospital,Phase 7,Mohali,10,4.6
+D055,Dr. Rahul Chawla,Psychiatrist,Mohali Care Hospital,Phase 3B2,Mohali,5,4.5
+D057,Dr. Ankit Kohli,Psychiatrist,Mohali LifeCare Hospital,Phase 7,Mohali,18,4.3
+D030,Dr. Nisha Bhatia,Pulmonologist,Mohali Care Hospital,Phase 7,Mohali,18,4.4
+D045,Dr. Kunal Arora,Urologist,Mohali Health Hospital,Sector 70,Mohali,14,4.3
+D046,Dr. Navneet Gill,Urologist,Mohali Medisquare Hospital,Phase 7,Mohali,15,4.0
+D085,Dr. Ritu Sharma,Allergist,Panchkula Medisquare Hospital,Sector 8,Panchkula,21,4.4
+D088,Dr. Varun Batra,Allergist,Panchkula Medisquare Hospital,Sector 15,Panchkula,21,4.1
+D083,Dr. Mukul Sethi,ENT Specialist,Panchkula LifeCare Hospital,Sector 8,Panchkula,18,4.2
+D031,Dr. Vivek Sharma,Endocrinologist,Panchkula Care Hospital,Sector 15,Panchkula,11,4.3
+D015,Dr. Manav Kohli,Gastroenterologist,Panchkula LifeCare Hospital,Sector 15,Panchkula,12,4.3
+D069,Dr. Sonia Bhatia,General Physician,Panchkula LifeCare Hospital,Sector 8,Panchkula,13,4.1
+D107,Dr. Sanjay Mehra,General Surgeon,Panchkula Care Hospital,Sector 15,Panchkula,12,4.2
+D093,Dr. Rohit Bedi,Hepatologist,Panchkula Health Hospital,Sector 15,Panchkula,5,4.5
+D075,Dr. Devinder Bedi,Infectious Disease Specialist,Panchkula Health Hospital,Sector 8,Panchkula,21,4.4
+D074,Dr. Anjali Mehta,Infectious Disease Specialist,Panchkula Care Hospital,Sector 15,Panchkula,14,4.4
+D038,Dr. Varun Sood,Nephrologist,Panchkula Care Hospital,Sector 8,Panchkula,18,4.2
+D058,Dr. Ritu Bansal,Psychiatrist,Panchkula Care Hospital,Sector 8,Panchkula,21,4.3
+D059,Dr. Sandeep Arora,Psychiatrist,Panchkula Medisquare Hospital,Sector 15,Panchkula,13,4.2
+D099,Dr. Karan Gill,Rheumatologist,Panchkula Medisquare Hospital,Sector 15,Panchkula,6,4.0
